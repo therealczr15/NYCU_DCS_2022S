@@ -1,1 +1,1 @@
-# NYCU Digital Circuit and System 2022 Spring
+# Spring 2022 NYCU Digital Circuit and System
